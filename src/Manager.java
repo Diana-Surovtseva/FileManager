@@ -47,7 +47,7 @@ public class Manager {
                     System.out.println("File rename: " + result);
                     break;
                 case "6":
-                    System.out.println("This is list of files in directoties: ");
+                    System.out.println("This is list of files in directories: ");
                     listOfFilesAndDirectories(file.getParent());
 
             }
